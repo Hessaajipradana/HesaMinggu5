@@ -1,0 +1,28 @@
+
+.divSatu{
+    background-color: aqua;
+}
+
+.divDua{
+    background-color: rgb(152, 152, 255);
+}
+
+.divTiga{
+    background-color: antiquewhite;
+}
+
+.divEmpat{
+    background-color: rgb(255, 183, 183);
+}
+
+header{
+    background-color: blueviolet
+}
+
+span{
+    font-size: 50px;
+}
+
+.udin{
+    color: #fff;
+}
